@@ -47,7 +47,7 @@ The system is designed as a scalable, citizen-centric platform that modernizes t
 
 You can view the working demo of the project here:
 
-👉 **[Watch Demo Video](./DEMO.mp4)**
+👉 **[Watch Demo Video](https://drive.google.com/file/d/13v8ugUkpLMIjxYCTctyfPaR0nacqv2_f/view?usp=sharing)**
 
 *(Click the link to download or play the demo video locally)*
 
@@ -87,4 +87,5 @@ B.Tech CSE | Full Stack & GenAI Enthusiast
 ## 🏆 Hackathon Note
 
 This project focuses on strengthening the **electoral infrastructure** rather than replacing existing voting systems, ensuring feasibility, scalability, and policy alignment.
+
 
